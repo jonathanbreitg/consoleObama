@@ -80,6 +80,5 @@ listener_thread = threading.Thread(target=listener)
 listener_thread.start()
 
 time.sleep(1)
-
 move_thread= threading.Thread(target=constant_movement)
 move_thread.start()
