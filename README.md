@@ -1,2 +1,2 @@
 # consoleObama
-obama, but he can move with *wasd*
+obama, but he can move with **wasd**
