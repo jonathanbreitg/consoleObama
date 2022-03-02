@@ -1,6 +1,9 @@
 import time
 import ueberzug.lib.v0 as ueberzug
 from pynput import keyboard
+import os
+os.system("color")
+from termcolor import colored
 import threading
 demo = ""
 moving_w = 0
