@@ -4,6 +4,8 @@ from pynput import keyboard
 import os
 os.system("color")
 from termcolor import colored
+from slowprint.slowprint import *
+slowprint(colored("Made by Bira ❤️ ","magenta",attrs=['reverse','bold']),0.4)
 import threading
 demo = ""
 moving_w = 0
